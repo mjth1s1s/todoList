@@ -15,7 +15,7 @@
 
 
         <ImageView
-            android:layout_width="240dp"
+            android:layout_width="245dp"
             android:layout_height="170dp"
             android:layout_marginTop="35dp"
             android:src="@drawable/newsbara2"/>
@@ -102,7 +102,7 @@
             android:layout_width="320dp"
             android:layout_height="50dp"
             android:layout_marginTop="45dp"
-            android:layout_marginBottom="10dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/btn_next_background"
 
             android:text="Next  ➤"
@@ -125,7 +125,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="   Register now"
+                android:text=" Register now"
                 android:textColor="#6C63FF"
                 android:textStyle="bold"
                 android:textSize="14sp" />
